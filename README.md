@@ -98,6 +98,11 @@ The goal of this project is to:
 
 ---
 
+## 🧠 Key Business Questions Answered
+- Are discounts hurting profitability? → Yes, higher discounts correlate with losses
+- Which category drives profit? → Technology
+- Where should we focus? → High-performing regions + low-discount strategy
+
 ## 🚀 Conclusion
 
 This project demonstrates how data analysis can uncover actionable insights beyond basic reporting. By analyzing sales, profitability, and pricing behavior, it highlights key opportunities to improve business performance and support data-driven decision-making.
