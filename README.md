@@ -32,7 +32,7 @@ The goal of this project is to:
 
 ## 📊 Dashboard Preview
 
-![Dashboard](Dashboard.jpg)
+![Dashboard](images/dashboard.jpg)
 
 ---
 
@@ -94,7 +94,7 @@ The goal of this project is to:
 
 * `dashboard.pbix` → Power BI dashboard
 * `SuperStoreOrders.csv` → Dataset used
-* `dashboard.jpg` → Dashboard preview
+* `images/dashboard.jpg` → Dashboard preview
 
 ---
 
