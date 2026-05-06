@@ -94,7 +94,7 @@ The goal of this project is to:
 
 * `dashboard.pbix` → Power BI dashboard
 * `SuperStoreOrders.csv` → Dataset used
-* `images/dashboard.png` → Dashboard preview
+* `dashboard.jpg` → Dashboard preview
 
 ---
 
