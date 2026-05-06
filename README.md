@@ -32,7 +32,7 @@ The goal of this project is to:
 
 ## 📊 Dashboard Preview
 
-![Dashboard](images/dashboard.jpg)
+![Dashboard](images/Dashboard.jpg)
 
 ---
 
